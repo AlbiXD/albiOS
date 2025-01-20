@@ -13,7 +13,7 @@ This project is still in its early stages. Here’s what I've accomplished so fa
     Bootloader: Successfully initializes the system and loads the kernel.
   </li>
   <li>
-    Basic Kernel: Simple functionality like VGA text mode output.
+    Basic Kernel: Simple functionality like VGA text mode output. (Added a print and putchar).
   </li>
 </ul>
 
