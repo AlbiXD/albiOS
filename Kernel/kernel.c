@@ -6,7 +6,16 @@ void init_vga(){
 
 void main() {
     init_vga();
-    print("hello");
+    print("albi\n");
+    print("b\n");
+    print("b");
+    print("b\n");
+    print("b\n");
+    print("albi\n");
+    print("b\n");
+    print("b");
+    print("b\n");
+    print("b\n");
     while (1);
 }
 
