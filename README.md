@@ -1,4 +1,4 @@
-# albiOS (MY VERY OWN OPERATING SYSTEM!)
+# MiniDOS (MY VERY OWN OPERATING SYSTEM!)
 
 Welcome to the repository for my custom operating system project! This is a work in progress, and its primary purpose is to deepen my understanding of low-level system programming, operating system concepts, and hardware interaction.
 
